@@ -1,0 +1,19 @@
+{
+  "name": "jetray-runtime-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.16",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
